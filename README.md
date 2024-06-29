@@ -1,5 +1,4 @@
-# AspireNex
-For the task submission 
+
 
 In this kernel, we are going to predict whether a credit card is fraud or not using Machine Learning.
 
